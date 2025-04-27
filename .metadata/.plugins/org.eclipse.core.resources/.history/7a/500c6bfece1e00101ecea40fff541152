@@ -1,0 +1,6 @@
+package com.springdersleri.__SpringProjesi;
+
+
+public class User {
+	private String firstName;
+}
